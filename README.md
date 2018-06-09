@@ -21,6 +21,3 @@
 
 7) bash Bash-Locker.sh
 
-
-
-#Bash Encryption Tools...
